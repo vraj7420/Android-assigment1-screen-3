@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">assigmente1screen3</string>
+    <string name="top">Top</string>
+    <string name="center_view">center view</string>
+    <string name="down">down</string>
+    <string name="l1">L1</string>
+    <string name="l2">L2</string>
+    <string name="r2">R2</string>
+    <string name="r1">R1</string>
+</resources>
